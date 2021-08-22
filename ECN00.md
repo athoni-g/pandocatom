@@ -3,6 +3,9 @@ tags: ECN
 ---
 # EC00
 
+[![hackmd-github-sync-badge](https://hackmd.io/FHd8HOL0Q4CTfdNcj72HJA/badge)](https://hackmd.io/FHd8HOL0Q4CTfdNcj72HJA)
+
+
 >[TOC]
 >
 [Notion Echeances](https://walnut-island-0f6.notion.site/de89da494d724a3ba3d40e4e8135e712?v=7f1623c550ea41c089a20596c0e9492c)
